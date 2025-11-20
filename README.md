@@ -15,7 +15,7 @@ Building practical solutions with modern technologies. Currently focused on mobi
 - Node.js • Express • MongoDB • Mongoose
 
 **Frontend Development**
-- React • JavaScript • HTML/CSS
+- Vue • React • JavaScript • HTML/CSS
 
 **Tools & Services**
 - Git • GitHub • VS Code • Postman
