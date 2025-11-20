@@ -55,7 +55,7 @@ University E-Sports Mobile Application
 
 [![GitHub](https://img.shields.io/badge/GitHub-qwertyvan-181717?style=flat&logo=github&logoColor=white)](https://github.com/qwertyvan)
 [![Email](https://img.shields.io/badge/Email-Contact-d4af37?style=flat&logo=gmail&logoColor=white)](mailto:kayaselimoglu@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Username-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047291869215862934)
+[![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/1047291869215862934)
 
 ---
 
