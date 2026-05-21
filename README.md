@@ -3,25 +3,7 @@
 
 > Software Developer | Mobile & Web Development
 
-Building practical solutions with modern technologies. Currently focused on mobile app development with React Native and backend systems with Node.js.
-
----
-
-## 🛠️ Tech Stack
-
-**Mobile Development**
-- React Native • TypeScript • Expo
-
-**Backend Development**
-- Node.js • Express • MongoDB • Mongoose
-
-**Frontend Development**
-- Vue • React • JavaScript • HTML/CSS
-
-**Tools & Services**
-- Git • GitHub • VS Code • Postman
-
----
+Building practical solutions with modern technologies.
 
 ## 📊 GitHub Stats
 
@@ -35,35 +17,14 @@ Building practical solutions with modern technologies. Currently focused on mobi
 
 </div>
 
----
+##
 
-## 📌 Pinned Projects
-
-### [Kampus](https://github.com/qwertyvan/Kampus)
-University E-Sports Mobile Application
-- **Stack:** React Native, TypeScript, Node.js, MongoDB
-- **Features:** JWT Authentication, i18n (TR/EN), Dark Mode, Version Tracking
-
----
-
-## 📈 Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qwertyvan&theme=github-dark&hide_border=true&bg_color=0d1117&color=d4af37&line=d4af37&point=ffffff)
-
----
-
-## 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-qwertyvan-181717?style=flat&logo=github&logoColor=white)](https://github.com/qwertyvan)
 [![Email](https://img.shields.io/badge/Email-Contact-d4af37?style=flat&logo=gmail&logoColor=white)](mailto:kayaselimoglu@gmail.com)
-[![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/1047291869215862934)
 
 ---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qwertyvan&color=d4af37&style=flat)
-
-**Thanks for visiting!**
 
 </div>
